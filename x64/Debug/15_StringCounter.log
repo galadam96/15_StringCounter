@@ -1,0 +1,3 @@
+﻿  StringCounter.c
+E:\Munkák\Programming\C\15_StringCounter\StringCounter.c(21,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  15_StringCounter.vcxproj -> E:\Munkák\Programming\C\15_StringCounter\x64\Debug\15_StringCounter.exe
